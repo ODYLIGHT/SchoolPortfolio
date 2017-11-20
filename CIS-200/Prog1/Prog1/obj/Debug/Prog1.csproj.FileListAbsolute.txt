@@ -1,0 +1,6 @@
+C:\Users\pmgre\OneDrive\Documents\Spring 2017\CIS 200\Prog1\Prog1\bin\Debug\Prog1.exe.config
+C:\Users\pmgre\OneDrive\Documents\Spring 2017\CIS 200\Prog1\Prog1\bin\Debug\Prog1.exe
+C:\Users\pmgre\OneDrive\Documents\Spring 2017\CIS 200\Prog1\Prog1\bin\Debug\Prog1.pdb
+C:\Users\pmgre\OneDrive\Documents\Spring 2017\CIS 200\Prog1\Prog1\obj\Debug\Prog1.csprojResolveAssemblyReference.cache
+C:\Users\pmgre\OneDrive\Documents\Spring 2017\CIS 200\Prog1\Prog1\obj\Debug\Prog1.exe
+C:\Users\pmgre\OneDrive\Documents\Spring 2017\CIS 200\Prog1\Prog1\obj\Debug\Prog1.pdb

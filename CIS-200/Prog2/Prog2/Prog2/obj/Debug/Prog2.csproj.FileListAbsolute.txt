@@ -1,0 +1,39 @@
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_15S\Progs\Prog2Start\Prog2\Prog2\bin\Debug\Prog2.exe.config
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_15S\Progs\Prog2Start\Prog2\Prog2\bin\Debug\Prog2.exe
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_15S\Progs\Prog2Start\Prog2\Prog2\bin\Debug\Prog2.pdb
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_15S\Progs\Prog2Start\Prog2\Prog2\obj\Debug\Prog2.csprojResolveAssemblyReference.cache
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_15S\Progs\Prog2Start\Prog2\Prog2\obj\Debug\Prog2.csproj.GenerateResource.Cache
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_15S\Progs\Prog2Start\Prog2\Prog2\obj\Debug\Prog2.exe
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_15S\Progs\Prog2Start\Prog2\Prog2\obj\Debug\Prog2.pdb
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_15S\Progs\Prog2Start\Prog2\Prog2\obj\Debug\LibraryItems.Properties.Resources.resources
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_16S\Progs\Prog2Start\Prog2\Prog2\bin\Debug\Prog2.exe.config
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_16S\Progs\Prog2Start\Prog2\Prog2\obj\Debug\Prog2.exe
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_16S\Progs\Prog2Start\Prog2\Prog2\obj\Debug\Prog2.pdb
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_16S\Progs\Prog2Start\Prog2\Prog2\bin\Debug\Prog2.exe
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_16S\Progs\Prog2Start\Prog2\Prog2\bin\Debug\Prog2.pdb
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_16S\Progs\Prog2Start\Prog2\Prog2\obj\Debug\Prog2.csprojResolveAssemblyReference.cache
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_16S\Progs\Prog2Start\Prog2\Prog2\obj\Debug\LibraryItems.Properties.Resources.resources
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_16S\Progs\Prog2Start\Prog2\Prog2\obj\Debug\Prog2.csproj.GenerateResource.Cache
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_17S\Progs\Prog2Start\Prog2\Prog2\bin\Debug\Prog2.exe.config
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_17S\Progs\Prog2Start\Prog2\Prog2\obj\Debug\Prog2.exe
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_17S\Progs\Prog2Start\Prog2\Prog2\obj\Debug\Prog2.pdb
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_17S\Progs\Prog2Start\Prog2\Prog2\bin\Debug\Prog2.exe
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_17S\Progs\Prog2Start\Prog2\Prog2\bin\Debug\Prog2.pdb
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_17S\Progs\Prog2Start\Prog2\Prog2\obj\Debug\LibraryItems.Properties.Resources.resources
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_17S\Progs\Prog2Start\Prog2\Prog2\obj\Debug\Prog2.csproj.GenerateResource.Cache
+C:\Users\pmgre\OneDrive\Documents\Spring 2017\CIS 200\Prog2\Prog2\Prog2\bin\Debug\Prog2.exe.config
+C:\Users\pmgre\OneDrive\Documents\Spring 2017\CIS 200\Prog2\Prog2\Prog2\obj\Debug\Prog2.exe
+C:\Users\pmgre\OneDrive\Documents\Spring 2017\CIS 200\Prog2\Prog2\Prog2\obj\Debug\Prog2.pdb
+C:\Users\pmgre\OneDrive\Documents\Spring 2017\CIS 200\Prog2\Prog2\Prog2\bin\Debug\Prog2.exe
+C:\Users\pmgre\OneDrive\Documents\Spring 2017\CIS 200\Prog2\Prog2\Prog2\bin\Debug\Prog2.pdb
+C:\Users\pmgre\OneDrive\Documents\Spring 2017\CIS 200\Prog2\Prog2\Prog2\obj\Debug\Prog2.csprojResolveAssemblyReference.cache
+C:\Users\pmgre\OneDrive\Documents\Spring 2017\CIS 200\Prog2\Prog2\Prog2\obj\Debug\LibraryItems.Form1.resources
+C:\Users\pmgre\OneDrive\Documents\Spring 2017\CIS 200\Prog2\Prog2\Prog2\obj\Debug\LibraryItems.PatronForm.resources
+C:\Users\pmgre\OneDrive\Documents\Spring 2017\CIS 200\Prog2\Prog2\Prog2\obj\Debug\LibraryItems.Properties.Resources.resources
+C:\Users\pmgre\OneDrive\Documents\Spring 2017\CIS 200\Prog2\Prog2\Prog2\obj\Debug\Prog2.csproj.GenerateResource.Cache
+C:\Users\pmgre\OneDrive\Documents\Spring 2017\CIS 200\Prog2\Prog2\Prog2\obj\Debug\LibraryItems.BookForm.resources
+C:\Users\pmgre\OneDrive\Documents\Spring 2017\CIS 200\Prog2\Prog2\Prog2\obj\Debug\LibraryItems.PatronListForm.resources
+C:\Users\pmgre\OneDrive\Documents\Spring 2017\CIS 200\Prog2\Prog2\Prog2\obj\Debug\LibraryItems.ItemListForm.resources
+C:\Users\pmgre\OneDrive\Documents\Spring 2017\CIS 200\Prog2\Prog2\Prog2\obj\Debug\LibraryItems.CheckedOutItemsForm.resources
+C:\Users\pmgre\OneDrive\Documents\Spring 2017\CIS 200\Prog2\Prog2\Prog2\obj\Debug\LibraryItems.CheckOut.resources
+C:\Users\pmgre\OneDrive\Documents\Spring 2017\CIS 200\Prog2\Prog2\Prog2\obj\Debug\LibraryItems.Return.resources

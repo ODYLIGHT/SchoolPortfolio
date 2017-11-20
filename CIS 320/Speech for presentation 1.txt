@@ -1,0 +1,31 @@
+/////////////////////////////////////////////////////////////////////////
+/////////////////////////////////////////////////////////////////////////
+/////////////////////////////////////////////////////////////////////////
+
+Good Morning everyone, 
+
+Before beginning I'd like to take a minute to introduce to our Peak Technologies Team. WE have Sydney, Or I'm pedr
+.
+.
+.
+.
+
+We're here to speak to you about some of the recommendations that we've developed to upgrade the HBPA website in order to make it more productive, supportive, and attractive. 
+
+The presentation will commence with a brief introduction to the current HBPA website and it's problems. After introducing those issues, we'll go over some of the expected outcomes of the project,
+Then we'll move onto some of our agile stories that really capture why website users need these problems solved.  Following that, we'll outline the current workflow of the organization, and compare it to it's future.  Lastly we'll  assesses the practicality of the project in terms of economy, organization, and technology. 
+
+/////////////////////////////////////////////////////////////////////////
+/////////////////////////////////////////////////////////////////////////
+/////////////////////////////////////////////////////////////////////////
+
+
+Currently the HBPA website doesn't offer a whole lot in terms of functionality, engagement, revenue.  This organzation has a membership body of 6000 plus people -- the largest of all state branches.  Yet their website doesn't reflect this status, and is made to not serve any one of the 6000 members nor the organization itself.
+The HBPA acts like they don't have a website; and the users don't visit it.   So that is the problem, and these bullit points are a big part of our solution.
+
+/////////////////////////////////////////////////////////////////////////
+/////////////////////////////////////////////////////////////////////////
+/////////////////////////////////////////////////////////////////////////
+
+
+We simply want to reflect the true organization that is the kentucky horsemen's benevolent and protective association.  
